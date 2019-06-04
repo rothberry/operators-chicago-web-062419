@@ -6,7 +6,7 @@ def unsafe?(speed)
   else
     return false
   end
-  binding.pry
+#  binding.pry
 
 end
 
